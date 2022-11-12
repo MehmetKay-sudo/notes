@@ -1,0 +1,10 @@
+The documentation is considered to be a simple guide to use "notes".
+
+This program will be a terminal only application without GUI.
+
+If you want to make changes, please feel free. But consider to make it usable for everybody. 
+
+Notes and Quotes as programs will be different applications with the same fundamental approach of simplicity. 
+
+For further contaction:
+mehmet.kay.programming@gmail.com
